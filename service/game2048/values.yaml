@@ -8,7 +8,7 @@ image:
   repository: 848324050850.dkr.ecr.ap-northeast-2.amazonaws.com/fastc-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "f3dc0"
+  tag: "acfa8"
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
